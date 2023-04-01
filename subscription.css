@@ -102,7 +102,7 @@ html{
 /* home section styling */
 .home{
     display: flex;
-    background: url("./foto/consultation2.jpg") no-repeat center;
+    background: url("./foto/subscription.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
